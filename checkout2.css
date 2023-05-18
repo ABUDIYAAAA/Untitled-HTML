@@ -1,0 +1,146 @@
+.checkout2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.checkout2-desktop2 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(232, 190, 172, 1);
+}
+.checkout2-navlink {
+  display: contents;
+}
+.checkout2-text {
+  top: 31px;
+  left: 92px;
+  color: rgba(255, 255, 255, 1);
+  width: 205px;
+  height: 81px;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Kanit;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout2-group1 {
+  top: 167px;
+  left: 112px;
+  width: 1113px;
+  height: 824px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.checkout2-rectangle3 {
+  top: 0px;
+  left: 5px;
+  width: 1108px;
+  height: 824px;
+  position: absolute;
+  border-radius: 20px;
+}
+.checkout2-text02 {
+  top: 52px;
+  color: rgba(0, 0, 0, 1);
+  width: 553px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Black;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout2-text04 {
+  top: 157px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  width: 553px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Black;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout2-text06 {
+  top: 239px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  width: 553px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Black;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout2-text08 {
+  top: 321px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  width: 553px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Black;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout2-navlink1 {
+  display: contents;
+}
+.checkout2-rectangle4 {
+  top: 532px;
+  left: 196px;
+  width: 711px;
+  height: 82px;
+  position: absolute;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.checkout2-text10 {
+  top: 548px;
+  left: 200px;
+  color: rgba(255, 255, 255, 1);
+  width: 709px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Black;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
