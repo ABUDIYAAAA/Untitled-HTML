@@ -19,7 +19,7 @@
 }
 .products-mainsec {
   top: 158px;
-  left: 75px;
+  left: 310px;
   width: 1290px;
   height: 784px;
   display: flex;
@@ -27,6 +27,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius: 20px;
 }
 .products-websitebasic {
   top: 70px;
@@ -483,7 +484,7 @@
 }
 .products-text43 {
   top: 881px;
-  left: 298px;
+  left: 525px;
   color: rgba(0, 0, 0, 1);
   width: 902px;
   height: auto;
@@ -508,7 +509,7 @@
 }
 .products-navbar {
   top: 0px;
-  left: 0px;
+  right: 315px;
   width: 1208px;
   height: 91px;
   display: flex;
@@ -540,7 +541,7 @@
   height: auto;
   position: absolute;
   font-size: 20px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   font-style: Bold;
   text-align: center;
   font-family: Inter;
